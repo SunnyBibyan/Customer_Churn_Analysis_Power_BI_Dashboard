@@ -3,7 +3,7 @@
 ## Overview
 This project provides an in-depth analysis of customer churn patterns, focusing on key factors that drive churn rates. The Power BI dashboard helps businesses understand customer demographics, behavior, and areas that need attention to reduce churn.
 
-![Churn Analysis Dashboard](Churn%20Analysis.png)
+![Churn Analysis Dashboard](assets/Churn%20Analysis.png)
 
 ## Key Features
 - **Data Sources**: The analysis uses a dataset with customer information, including demographics, services subscribed, and churn status.
